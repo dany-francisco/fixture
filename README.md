@@ -12,6 +12,10 @@ copa america conti
 | mpdf | 8.0.5 | https://github.com/mpdf/mpdf |
 | bootstrap | 2.5.0 | https://github.com/angular-ui/bootstrap |
 | stylus | 0.54.7  | https://github.com/stylus/stylus/ |
+## Como desplegar la aplicacion
+ - Utilizar git init
+ - Utilizar git add
+ - Utilizar git commit -m "first commit" 
 
 
 
