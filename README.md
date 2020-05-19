@@ -19,5 +19,9 @@ copa america conti
  - Utilizar git config --global user.email "excample@gamil.com"
  - Utilizar git config --global user.name "bichito"
  - Utilizar git push master
-
+## Cambios en dev.v1
+ Frameworks:
+ - Angular
+ - Android Studio
+ - Laravel
 
