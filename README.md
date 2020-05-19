@@ -17,7 +17,7 @@ copa america conti
  - Utilizar git add
  - Utilizar git commit -m "first commit" 
  - Utilizar git config --global user.email "excample@gamil.com"
- - Utilizar git config --global user.user "bichito"
+ - Utilizar git config --global user.name "bichito"
  - Utilizar git push master
 
 
