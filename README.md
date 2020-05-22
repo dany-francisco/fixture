@@ -1,27 +1,18 @@
-# fixture
-copa america conti
-## Creditos
-    - Dany
-    - Juan
-    - Patrick
-## Requerimientos
-| Software | Version | Pagina |
-| --------|---------|-------|
-| PHPWord | 0.17.0 | https://github.com/PHPOffice/PHPWord/ |
-| PhpSpreadsheet | 4.58 | https://github.com/PHPOffice/PhpSpreadsheet |
-| mpdf | 8.0.5 | https://github.com/mpdf/mpdf |
-| bootstrap | 2.5.0 | https://github.com/angular-ui/bootstrap |
-| stylus | 0.54.7  | https://github.com/stylus/stylus/ |
-## Como desplegar la aplicacion
- - Utilizar git init
- - Utilizar git add
- - Utilizar git commit -m "first commit" 
- - Utilizar git config --global user.email "excample@gamil.com"
- - Utilizar git config --global user.name "bichito"
- - Utilizar git push master
-## Cambios en dev.v1
- Frameworks:
- - Angular
- - Android Studio
- - Laravel
+# Requerimientos de la Aplicacion Movil
+## para las Olimpiadas Copa America Conti
 
+**Funcionales**
+1. RF01: La aplicación movil permitirá visualizar el fixture de todos los partidos.
+2. RF02: La aplicación movil permitirá vizualizar todas las fases de los partidos.
+3. RF03: La aplicación movil permitirá visualizar la fecha y hora de los partidos.
+4. RF04: La aplicacion movil permitirá visualizar los equipos ganadores.
+5. RF05: La aplicacion movil permitirá visualizar los datos de los jugadores.
+5. RF06: La aplicacion movil permitirá descargar las bases (reglamento deportivo).
+
+**No Funcionales**
+1. RNF01: La seguridad y la disponibilidad de la informacion deben ser garantizadas.
+2. RNF02: La aplicación movil debe poseer interfaces gráficas bien definidas.
+3. RNF02: La aplicación movil debe ser intuitiva y fácil de usar.
+
+###### Creditos
+**Dany**
