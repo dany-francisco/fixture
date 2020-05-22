@@ -1,5 +1,6 @@
 # Requerimientos de la Aplicacion Movil para las Olimpiadas 
-Copa America Conti
+
+Copa America **Conti**
 
 ## Funcionales
 - RF01: La aplicación movil permitirá visualizar el fixture de todos los partidos.
@@ -14,5 +15,5 @@ Copa America Conti
 - RNF02: La aplicación movil debe poseer interfaces gráficas bien definidas.
 - RNF02: La aplicación movil debe ser intuitiva y fácil de usar.
 
-## Creditos
-    - Dany
+**Creditos**
+danilo
