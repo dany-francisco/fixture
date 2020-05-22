@@ -15,5 +15,5 @@ Copa America **Conti**
 - RNF02: La aplicación movil debe poseer interfaces gráficas bien definidas.
 - RNF02: La aplicación movil debe ser intuitiva y fácil de usar.
 
-**Creditos**
-danilo
+Creditos
+**danilo**
